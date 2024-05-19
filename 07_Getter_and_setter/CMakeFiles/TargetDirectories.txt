@@ -1,0 +1,3 @@
+/home/abbas/Desktop/07_Getter_and_setter/CMakeFiles/myapp.dir
+/home/abbas/Desktop/07_Getter_and_setter/CMakeFiles/edit_cache.dir
+/home/abbas/Desktop/07_Getter_and_setter/CMakeFiles/rebuild_cache.dir

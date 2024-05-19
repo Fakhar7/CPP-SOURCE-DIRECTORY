@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/00_Exercise.dir/00_Exercise/src/main.cpp.o CMakeFiles/00_Exercise.dir/00_Exercise/includes/textbox.cpp.o -o 00_Exercise

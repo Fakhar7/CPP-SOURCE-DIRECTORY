@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/abbas/CLionProjects/11_Explicit_keyword/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/11_Explicit_keyword.dir/src/main.cpp.o -c /home/abbas/CLionProjects/11_Explicit_keyword/src/main.cpp",
+  "file": "/home/abbas/CLionProjects/11_Explicit_keyword/src/main.cpp",
+  "output": "CMakeFiles/11_Explicit_keyword.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/abbas/CLionProjects/11_Explicit_keyword/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/00_Exercise.dir/00_Exercise/src/main.cpp.o -c /home/abbas/CLionProjects/11_Explicit_keyword/00_Exercise/src/main.cpp",
+  "file": "/home/abbas/CLionProjects/11_Explicit_keyword/00_Exercise/src/main.cpp",
+  "output": "CMakeFiles/00_Exercise.dir/00_Exercise/src/main.cpp.o"
+},
+{
+  "directory": "/home/abbas/CLionProjects/11_Explicit_keyword/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/00_Exercise.dir/00_Exercise/includes/textbox.cpp.o -c /home/abbas/CLionProjects/11_Explicit_keyword/00_Exercise/includes/textbox.cpp",
+  "file": "/home/abbas/CLionProjects/11_Explicit_keyword/00_Exercise/includes/textbox.cpp",
+  "output": "CMakeFiles/00_Exercise.dir/00_Exercise/includes/textbox.cpp.o"
+}
+]
